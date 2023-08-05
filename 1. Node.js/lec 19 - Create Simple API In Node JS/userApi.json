@@ -1,0 +1,46 @@
+{
+    "results": [
+        {
+            "level": "101",
+            "subject": "French 1",
+            "department": "Languages"
+        },
+        {
+            "level": "111",
+            "subject": "Trigonometry",
+            "department": "Mathematics"
+        },
+        {
+            "level": "110",
+            "subject": "Geometry",
+            "department": "Mathematics"
+        },
+        {
+            "level": "102",
+            "subject": "Algebra 2",
+            "department": "Mathematics"
+        },
+        {
+            "level": "101",
+            "subject": "Algebra 1",
+            "department": "Mathematics"
+        },
+        {
+            "level": "110",
+            "subject": "Physics",
+            "department": "Science"
+        },
+        {
+            "level": "105",
+            "subject": "Biology",
+            "department": "Science"
+        },
+        {
+            "level": "101",
+            "subject": "Chemistry",
+            "department": "Science"
+        }
+    ],
+    "hasMore": false,
+    "responseTime": 96
+}

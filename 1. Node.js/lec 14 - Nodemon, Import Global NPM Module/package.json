@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "name": "lec-14---import-global-npm-module",
+  "version": "1.0.0",
+  "description": "jiten",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiten",
+  "license": "ISC"
+}
